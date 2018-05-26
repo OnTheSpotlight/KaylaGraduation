@@ -9,3 +9,12 @@ permalink: >
 published: true
 post_date: 2018-05-26 02:55:22
 ---
+[tabby title="Stories"]
+
+[ic_add_posts category='mrgn052018']
+
+[tabby title="Add Your Story"]
+
+[user-submitted-posts]
+
+[tabbyending]
